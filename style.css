@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Courgette&family=Lobster&family=Moon+Dance&family=Patrick+Hand&family=Roboto+Mono:wght@300&family=Sarabun:wght@200&family=Sedgwick+Ave&family=Shadows+Into+Light&family=Sriracha&display=swap');
+.active{
+  color:rgb(0, 0, 0) !important;
+
+}
+
+h1{
+ 
+  color :rgb(165, 0, 0);
+  font-family: 'Sedgwick Ave', cursive;
+  font-size: 100px;
+  font-weight: bolder;
+}
+
+p{
+  color :rgb(125, 73, 36);
+  font-family: 'Courgette', cursive;
+  font-size: 30px;
+}
+
+h2{
+  color :rgb(0, 0, 0);
+  font-family: 'Sarabun', sans-serif;
+  font-size: 25px;
+  font-weight: bolder;
+ 
+}
+
+
+a{
+  color: rgb(0, 0, 0);
+  font-size: 25px;
+  font-family: 'Sedgwick Ave', cursive;
+}
+
+h3{
+  color: rgb(0, 0, 0);
+  font-size: 20px;
+  font-family: 'Sarabun', sans-serif;
+}
+
+button{
+  font-family: 'Niramit', sans-serif;
+}
+
+input{
+  font-family: 'Niramit', sans-serif;
+}
