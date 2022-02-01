@@ -3,7 +3,12 @@
   color:rgb(0, 0, 0) !important;
 
 }
-
+ body{
+ background:url("/assets/BG2.jpeg");
+background-size:cover;
+  background-repeat:no-repeat;
+  background-attachment:fixed;
+}
 h1{
  
   color :rgb(165, 0, 0);
